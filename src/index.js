@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// index.js is trying to render the App component into the root element
 ReactDOM.render(
   <React.StrictMode>
     <App />
